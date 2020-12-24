@@ -1,0 +1,15 @@
+{
+  "name": "123456789",
+  "version": "1.0.0",
+  "description": "Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shlomi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "kbm-robot": "0.0.4"
+  }
+}
